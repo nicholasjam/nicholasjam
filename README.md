@@ -1,4 +1,45 @@
-### Senior Full Stack Developer
+# 👨‍💻 Senior Full Stack Developer
 
-A highly skilled software engineer with over 8 years of experience in full-stack web development, specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js) along with modern web technologies like JavaScript, TypeScript, RESTful APIs, GraphQL, Docker, and AWS. I have a proven track record of delivering high-performance, scalable web applications, leveraging front-end and back-end development expertise. My expertise spans designing and implementing dynamic user interfaces using React.js, integrating robust server-side architectures with Node.js and Express.js, and optimizing databases with MongoDB. I am experienced in deploying applications on AWS and managing CI/CD pipelines with Docker and GitHub Actions. Additionally, I excel in full-stack development, e-commerce integration, API design, testing, performance optimization, and security. I bring strong leadership and collaboration skills, having successfully led cross-functional teams in Agile environments to deliver projects on time. With a commitment to continuous learning and embracing new technologies, I am focused on creating innovative, user-centric digital solutions that align with business goals and drive measurable impact.
+Welcome! I'm a seasoned **Full Stack Software Engineer** with over **8 years of experience** in building fast, scalable, and user-focused web applications.
 
+---
+
+## 🧠 About Me
+
+A results-driven developer with expertise in both frontend and backend development, I specialize in the **MERN stack** and modern cloud-native technologies. My passion lies in creating solutions that not only work but scale efficiently with business needs.
+
+---
+
+## 🔥 Core Expertise
+
+- 🧱 **Frontend**: React.js, JavaScript (ES6+), TypeScript, Responsive UI, Component-based Architecture
+- 🔧 **Backend**: Node.js, Express.js, RESTful APIs, GraphQL
+- 💾 **Database**: MongoDB (schema design, indexing, aggregation)
+- ☁️ **Cloud & DevOps**: AWS (EC2, S3, Lambda), Docker, GitHub Actions, CI/CD Pipelines
+- 🛠 **Tools & Practices**: Agile, Scrum, TDD, Git, Webpack, ESLint
+
+---
+
+## 🛒 Domain Experience
+
+- 🌐 Full-stack application development
+- 🛍 E-commerce solutions and third-party integrations
+- 🔐 API design with a focus on security and performance
+- 🚀 Performance optimization for high-traffic platforms
+- 🔄 Scalable architecture and microservices design
+
+---
+
+## 🤝 Collaboration & Leadership
+
+I have a proven track record of **leading cross-functional teams**, mentoring junior developers, and managing projects from ideation to deployment. I'm committed to delivering top-quality code, meeting deadlines, and continuously evolving alongside new technologies.
+
+---
+
+## 🚀 Mission
+
+To **build innovative, secure, and impactful digital solutions** that solve real business problems, enhance user experience, and scale with success.
+
+---
+
+> 💬 "Code is not just what I do — it's how I create impact."
